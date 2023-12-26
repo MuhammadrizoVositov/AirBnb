@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace AirBnb.Persistence.Migrations
 {
     /// <inheritdoc />
-    public partial class LocationInitail : Migration
+    public partial class InitialAirBnb : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
